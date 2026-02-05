@@ -1,4 +1,4 @@
-![Logo](https://cdn.modrinth.com/data/AflKeK17/7b99931b044576e890004f382b14da8da17696dd_96.webp) # Gemini Minecraft plugin
+# ![Logo](https://cdn.modrinth.com/data/AflKeK17/7b99931b044576e890004f382b14da8da17696dd_96.webp) Gemini Minecraft plugin
 ![Enviroment Server](https://img.shields.io/badge/environment-server-1976d2?style=flat-square)
 
 This plugin allows you to communicate with Google Gemini from your Minecraft server! All you need is an API key and to select a model!
